@@ -1,4 +1,4 @@
-# BeneventoLongobardaAccessibile
+# Benevento Longobarda Accessibile
 
 Benevento Longobarda, alla quarta edizione, rievoca avvenimenti storici incentrati sulla figura di Arechi II, ultimo Duca e primo Principe di Benevento. La manifestazione si svolgerà dal 25 al 28 giugno e i turisti, su richiesta, potranno usufruire di diversi servizi e agevolazioni turistico-ricettive con la scrama card.
 In questa edizione del 2015 si è deciso di dare continuità alla Contesa di Sant'Eliano, rievocazione storica nella quale le Fare cittadine si affrontano per stabilire chi potrà conservare per il prossimo anno le Reliquie di Sant'Eliano.
