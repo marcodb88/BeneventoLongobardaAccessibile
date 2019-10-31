@@ -15,6 +15,7 @@
   
   <no_voci value="Non ci sono più voci nel menù"></no_voci>
   <no_action value="Nessuna azione associata a questo tasto"></no_action>
+  <mute value=""></mute>
   
   <selected_voce value="Voce selezionata:" ></selected_voce>
   <continue_navigation value="Per entrare nella sezione premere il tasto in basso a sinistra"></continue_navigation>

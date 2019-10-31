@@ -60,38 +60,37 @@ function onDeviceReady() {
 
 
 function onBackKeyDown() {
-    var xmlString = get_value_from_xml('no_action');
-    set_output(xmlString, xmlString);	//creazione dei vari output
+    var xmlString = get_value_from_xml('mute');
+    set_output(xmlString, xmlString);
 }
 
 function onMenuKeyDown() {
-    var xmlString = get_value_from_xml('no_action');
-    set_output(xmlString, xmlString);	//creazione dei vari output
-
+    var xmlString = get_value_from_xml('mute');
+    set_output(xmlString, xmlString);
 }
 
 function onPause() {
-    var xmlString = get_value_from_xml('no_action');
-    set_output(xmlString, xmlString);	//creazione dei vari output
+    var xmlString = get_value_from_xml('mute');
+    set_output(xmlString, xmlString);
 }
 
 function onResume() {
-    var xmlString = get_value_from_xml('no_action');
-    set_output(xmlString, xmlString);	//creazione dei vari output
+    var xmlString = get_value_from_xml('mute');
+    set_output(xmlString, xmlString);
 }
 
 function onSearchKeyDown() {
-	var xmlString = get_value_from_xml('no_action');
+	var xmlString = get_value_from_xml('mute');
 	set_output(xmlString, xmlString);
 }
 
 function onStartCallKeyDown() {
-	var xmlString = get_value_from_xml('no_action');
+	var xmlString = get_value_from_xml('mute');
 	set_output(xmlString, xmlString);
 }
 
 function onEndCallKeyDown() {
-	var xmlString = get_value_from_xml('no_action');
+	var xmlString = get_value_from_xml('mute');
 	set_output(xmlString, xmlString);
 }
 
