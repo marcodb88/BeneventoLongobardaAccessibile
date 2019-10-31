@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<properties>
+  
+  <exit value="Esci dall'applicazione"></exit>
+  <menu value="Menù iniziale"></menu>
+  <descrizione_evento value="Descrizione evento"></descrizione_evento>
+  <bn_accessibile value="Benevento longobarda accessibile"></bn_accessibile>
+  <contesa value= "La contesa di Sant'Eliano"></contesa>
+  <gruppi_storici value="Gruppi storici"></gruppi_storici>
+  <gruppi_musicali value="Gruppi musicali"></gruppi_musicali>
+  <programma value="Programma"></programma>
+  <enter value="entra in"></enter>
+  <menu_back value="sei tornato nel menù iniziale"></menu_back>
+  
+  <no_voci value="Non ci sono più voci nel menù"></no_voci>
+  <no_action value="Nessuna azione associata a questo tasto"></no_action>
+  
+  <selected_voce value="Voce selezionata:" ></selected_voce>
+  <continue_navigation value="Per entrare nella sezione premere il tasto in basso a sinistra"></continue_navigation>
+  <benvenuto_text value="Benvenuto nell'applicazione dedicata a Benevento longobarda Accessibile, realizzata da Informatici senza frontiere. Usa i tasti a 
+  destra per scorrere il menù, il tasto in basso a sinistra per accedere alla sezione d'interesse e il tasto in alto a sinistra per uscire 
+  dall'applicazione."></benvenuto_text>
+  
+  <navigate_contesa value="Sei nella sezione dedicata alla contesa di sant'eliano. Premi i tasti a destra per scorrere l'elenco dei banchi presenti e per avere
+  maggiori informazioni sull'evento."></navigate_contesa>
+  <navigate_programma value="Sei nella sezione dedicata al programma della manifestazione. Premi i tasti a destra per selezionare il giorno su cui si desidera 
+  avere informazioni."></navigate_programma>
+  <navigate_orari value="Sei nella sezione dedicata agli orari del giorno di interesse. Premi i tasti a destra per selezionare l'orario su cui si desidera 
+  avere informazioni."></navigate_orari>
+  <navigate_storici value="Sei nella sezione dedicata ai gruppi storici. Premi i tasti a destra per selezionare il gruppo storico su cui si desidera avere 
+  informazioni."></navigate_storici>
+  <navigate_musica value="Sei nella sezione dedicata ai gruppi musicali storici. Premi i tasti a destra per selezionare il gruppo musicale storico su cui si 
+  desidera avere informazioni."></navigate_musica>
+  <navigate_giorno value="Sei nella sezione dedicata al giorno della manifestazione di interesse. Premi i tasti a destra per selezionare l'orario su cui si 
+  desidera avere informazioni."></navigate_giorno>
+  
+<!-- BENEVENTO ACCESSIBILE --> 
+    
+  <bn_accessibile_text value="Quest'anno Benevento Longobarda è accessibile alle persone con disabilità. Perchè l'arte è di tutti. La Contesa di Sant’Eliano 
+  sarà accessibile a tutti, grazie alla collaborazione tra l'Associazione Culturale Benevento Longobarda e tante altre associazioni che operano sul territorio:
+  ItaliAccessibile, la sezione beneventana dell’Unione Italiana Ciechi e Ipovedenti ONLUS, Informatici Senza Frontiere sezione di Benevento, Futuro Down Onlus,
+  Centro Più Bello Insieme e l’ENS. Insieme garantiremo l’accessibilità a tutti gli eventi principali: verrà predisposta una pedana rialzata per consentire ad 
+  almeno 10 persone in carrozzina di assistere ai palii e agli spettacoli che si svolgono sul palco principale; verrà predisposto un punto informativo 
+  riservato alle persone con disabilità e gestito dalle associazioni di cui sopra; verrà realizzato un percorso per non vedenti che li guiderà alla scoperta 
+  dei banchi didattici di archeologia sperimentale e agli elementi tipici della rievocazione longobarda mediante esperienze tattili e spiegazioni da parte dei 
+  rievocatori; ci saranno degli interpreti per audiolesi e non vedenti durante lo svolgimento dei sei palii; infine è prevista la partecipazione di diversi 
+  ragazzi down ai cortei storici e alle sfilate delle Fare, in una o più giornate."></bn_accessibile_text> 
+
+<!-- DESCRIZIONE EVENTO --> 
+  
+  <descrizione_evento_text value="Benevento Longobarda, alla quarta edizione, rievoca avvenimenti storici incentrati sulla figura di Arechi secondo, ultimo 
+  Duca e primo Principe di Benevento. Con Santa Sofia iscritta nella Lista del Patrimonio Mondiale dell’Unesco all’interno del sito seriale chiamato I 
+  Longobardi in Italia, nasce l'evento Benevento Longobarda. La Chiesa di Santa Sofia e tutta la parte della città edificata dai Longobardi, sono testimonianza
+  di un periodo di splendore e simbolo di una civiltà che ha lasciato tracce indelebili nella storia, emblema di una cultura che ha inciso profondamente nella 
+  società e nel territorio. L'evento vuole riscoprirla e rivalorizzarla, attraverso percorsi di living history, consentendo ai partecipanti di vivere la storia
+  in prima persona, tuffandosi nella Benevento Longobarda di 1250 anni fa. Nel duemilaquindici si è deciso di dare continuità alla CONTESA DI SANT'ELIANO, 
+  rievocazione storica nella quale le Fare cittadine si affrontano per stabilire chi potrà conservare per il prossimo anno le Reliquie di 
+  Sant'Eliano."></descrizione_evento_text>
+
+<!-- CONTESA DI SANT'EGIDIO -->  
+  
+  <intro_contesa value="Descrizione"></intro_contesa>
+  <banco_scrittura value="Banco della scrittura beneventana"></banco_scrittura>
+  <banco_tessitura value="Banco della tessitura e della tintura"></banco_tessitura>
+  <banco_arcaio value="Banco dell'arcaio"></banco_arcaio>
+  <banco_funebre value="Banco dei corredi funerari"></banco_funebre>
+  <banco_giochi value="Banco dei giochi storici"></banco_giochi>
+  <banco_falegname value="Banco del falegname"></banco_falegname>
+  <banco_conio value="Banco del conio"></banco_conio>
+  <banco_armaiolo value="Banco dell'armaiolo"></banco_armaiolo>
+  <banco_ingegnere value="Banco dell'ingenierus"></banco_ingegnere>
+  <banco_speziale value="Banco dello speziale"></banco_speziale>
+  <banco_scudaio value="Banco dello scudaio"></banco_scudaio>
+  <banco_medico value="Banco della scuola medica salernitana"></banco_medico>
+  <banco_birra value="Banco del mastro birraio"></banco_birra>
+  
+  <contesa_text value="Per obbedire al volere di Arechi secondo, nel settecentosessantatré, il suo gastaldo Gualtari si recò a Bisanzio, dove ricevette dalle 
+  mani dell’imperatore dei romani d’oriente, le sacre reliquie del martire Eliano, prode soldato morto a Sebaste. Nel donargli le sacre reliquie, l’imperatore 
+  auspicò decenni di pace tra bizantini e longobardi. Per via delle sue benefiche proprietà, le sacre reliquie furono contese tra le Fare cittadine, perchè 
+  ciascuna voleva godere dei benefici derivanti dalla custodia. La contesa del duemilaquattordici fu vinta dalla Fara del Conte, che per un anno ha conservato 
+  le reliquie, celebrando molti matrimoni e vivendo nella prosperità assicurata dal martire Eliano. Ora, è giunto il tempo di mettere di nuovo in Palio le 
+  sacre reliquie. Le fare sconfitte lo scorso anno se le contenderanno in gare di forza, coraggio e destrezza. La Fara che avrà ottenuto il maggior numero di 
+  vittorie al termine della Contesa godrà del privilegio di custodire le Reliquie di Sant’Eliano per un anno, fino alla prossima Contesa. La manifestazione si 
+  svolgerà dal venticinque al ventotto giugno e i turisti, su richiesta, potranno usufruire di diversi servizi e agevolazioni turistico e ricettive con la 
+  scrama card. Durante la manifestazione verranno allestiti dei banchi didattici di archeologia sperimentale ed un accampamento militare longobardo dove sarà 
+  possibile conoscere l’abbigliamento e l’equipaggiamento dei guerrieri longobardi, i quali faranno vita da campo con esercitazioni e allenamenti. I banchi 
+  didattici di archeologia sperimentale consistono in fedeli riproduzioni dei mestieri altomedievali."></contesa_text>
+  <banco_scrittura_text value="sara' possibile conoscere le tecniche di scrittura del periodo, con particolare riferimento all’alfabeto beneventano, agli 
+  ingredienti per la realizzazione degli inchiostri, ai supporti di scrittura, agli oggetti tipici di uno scriptorium beneventano altomedievale. è curato 
+  da Benevento Longobarda."></banco_scrittura_text>
+  <banco_tessitura_text value="sarà possibile conoscere le tecniche di tessitura, con esposizione di telai orizzontali e verticali e dimostrazione del 
+  procedimento, le tecniche di colorazione dei tessuti, con spiegazione della colorazione. è curato da Benevento Longobarda."></banco_tessitura_text>
+  <banco_arcaio_text value="sarà possibile conoscere gli strumenti e le tecniche di costruzione di archi, balestre a piolo, frecce, dardi, con eventuale 
+  corso di esercitazione. è curato da Benevento Longobarda."></banco_arcaio_text>
+  <banco_funebre_text value="sarà possibile toccare con mano gli oggetti tipici dei corredi funerari longobardi, maschili e femminili, con spiegazione delle 
+  modalità di sepoltura. è curato da Benevento Longobarda."></banco_funebre_text>
+  <banco_giochi_text value="sarà possibile conoscere antichi giochi da tavolo. è curato da Benevento Longobarda."></banco_giochi_text>
+  <banco_falegname_text value="verranno illustrate le tecniche di lavorazione del legno del periodo. è curato da Benevento Longobarda."></banco_falegname_text>
+  <banco_conio_text value="verrà coniata la moneta longobarda del periodo arechiano, ovvero la Tremisse di Arechi, in rame o ottone, secondo criteri di 
+  coniatura del periodo. è curato da Tempora Medievalis."></banco_conio_text>
+  <banco_armaiolo_text value="verranno illustrate le tecniche di costruzione di armature, di corazze lamellari, di cotte di maglia. è curato da Tempora 
+  Medievalis."></banco_armaiolo_text>
+  <banco_ingegnere_text value="verranno illustrate le tecniche di costruzione e il funzionamento delle armi d’assedio, riprodotte in scala. è curato da 
+  Tempora Medievalis."></banco_ingegnere_text>
+  <banco_speziale_text value="verranno mostrate le principali erbe del periodo, suddivise in base agli scopi di coltivazione: alimentazione, colorazione, 
+  medicamenti. è curato da Tempora Medievalis."></banco_speziale_text>
+  <banco_scudaio_text value="verranno realizzati scudi e pavesari secondo tecniche di costruzione del periodo. è curato da Tempora 
+  Medievalis."></banco_scudaio_text>
+  <banco_medico_text value="verranno illustrate le conoscenze del periodo in campo medico e verrà raccontata la storia della scuola medica di Salerno, la 
+  più antica del mondo occidentale. è curato da Gens Langobardorum."></banco_medico_text>
+  <banco_birra_text value="verranno mostrate le tecniche di fermentazione della bevanda più amata dai longobardi: la birra. è curato da Gens 
+  Langobardorum."></banco_birra_text>
+  
+<!-- GRUPPI STORICI --> 
+
+  <fortebraccio value="Fortebraccio Veregrense: Marche"></fortebraccio>
+  <fara value="La Fara: Cividale del Friuli"></fara>
+  <tempora value="Tempora Medievalis: Melfi"></tempora>
+  <gens value="Gens Langobardorum: Salerno"></gens>
+  <cavalieri value="I Cavalieri Di Bianca Lancia: Lagopesole Potenza"></cavalieri>
+  
+  <fortebraccio_text value="La Scuola di Scherma Antica ForteBraccio Veregrense, oltre alla ricerca ed allo studio di una delle più antiche arti marziali 
+  occidentali, rievoca la vita ed i combattimenti di vari periodi e popoli. In particolare, la Fara Longobarda del Ducato di Spoleto del settimo-ottavo secolo,
+  la Lancia Templare-Militia Comunale Italiana del dodicesimo-tredicesimo secolo, Compagnia di Ventura del quindicesimo secolo. Particolare enfasi è dedicata 
+  alla ricostruzione del periodo Longobardo in Italia (sesto-settimo secolo), tanto da meritarsi apprezzamenti da importanti storici ed archeologi del settore 
+  come Elena Percivaldi e Marco Valenti per l’accuratezza nella ricostruzione e dei particolari. Le attività svolte sono: Ricostruzione di un accampamento 
+  storico di armati con attività di vita quotidiana; Spettacoli con ricostruzione di duelli e battaglie campali; Stage di scherma medioevale per adulti e 
+  bambini; Didattica sull’equipaggiamento gli l’oggettistica e le attività dell’accampamento; Allestimenti museali con costumi e materiali."></fortebraccio_text>
+  <fara_text value="La Fara prende il sul nome dal termine indicante nel contesto longobardo un gruppo di consanguinei in armi e si propone la ricostruzione 
+  delle prime generazioni longobarde giunte in Italia al seguito di Alboino nel 568 dopo Cristo. Opera in Italia ed in Europa, principalmente con 
+  collaborazioni con le istituzioni e le scuole per scopi didattici e con la partecipazione a numerosi eventi localizzati presso i musei Open Air riguardanti 
+  l’alto medioevo."></fara_text>
+  <tempora_text value="Tempora Medievalis è un’associazione storico-culturale il cui scopo principale è lo studio, la divulgazione e la reinterpretazione del 
+  medioevo in un’ottica seria e professionale. L’associazione ricostruisce fedelmente ambienti e spaccati di vita medievale e crea spettacoli estremamente 
+  modulari e vari; spaziando dall’Alto medioevo fino all’epoca rinascimentale (quindicesimo-sedicesimo secolo), ricreando accampamenti storici, arti e mestieri
+  dell’epoca, duelli e arceria storica, con particolare attenzione alla filologicità degli usi e costumi dell’epoca di interesse e delle armature e armi in 
+  uso nel periodo rievocato. Tempora Medievalis collabora con Benevento Longobarda fin dalla prima edizione."></tempora_text>
+  <gens_text value="Il gruppo di rievocazione storica longobarda Gens Langobardorum nasce nel 2012, in seno al Gruppo Archeologico Salernitano e il suo 
+  intento è quello di studiare e ricostruire il periodo storico compreso tra la fine dell’ottavo e la seconda metà del nono secolo. La finalità di questo 
+  gruppo, variegato al suo interno, composto non solo da archeologi e storici dell’arte, ma soprattutto da appassionati di storia salernitana, è quella di 
+  far avvicinare il pubblico all’arte, agli stili, agli intrattenimenti e ai giochi, alla manualità o semplicemente alla vita quotidiana di quei secoli così 
+  importanti."></gens_text>
+  <cavalieri_text value="Il gruppo è specializzato nei tornei a cavallo."></cavalieri_text>
+  
+<!-- GRUPPI MUSICALI --> 
+  
+  <emian value="Emian Pagan Folk: Campania"></emian>
+  <odor value="Odor Rosae Musices: Puglia"></odor> 
+  
+  <emian_text value="Ascoltare gli Emian Pagan Folk è come intraprendere un viaggio. Dalla Cultura dell’area Celtica a quella del Nord Europa passando per 
+  Ballate Medievali e Canti Sciamanici. Arpa e voce di Aianna Egan, percussioni e violino di Emain Druma e le corde di Rohan rapiscono lo spettatore, anche 
+  il più disattento, come le sirene facevano con i marinai, accompagnandolo su cime innevate, in boschi incantati e lungo fiordi scandinavi, per ritrovare, 
+  infine, nell’io più profondo, un sentore arcaico e selvaggio che l’uomo ormai ha perso da tempo, il tutto in perfetta sintonia col Cosmo."></emian_text>
+  <odor_text value="Gli Odor Rosae Musices sono un gruppo di musici medievali che grazie a ricerche storico-filologiche, esegue musica medievale utilizzando 
+  una ricchissima collezione di fedeli riproduzioni di strumenti."></odor_text> 
+  
+<!-- PROGRAMMA --> 
+  
+  <giovedi value="giovedì 25"></giovedi>
+  <venerdi value="venerdì 26"></venerdi>
+  <sabato value="sabato 27"></sabato>
+  <domenica value="domenica 28"></domenica>
+  
+  <dieci_to_dodici value="dalle 10 alle 12"></dieci_to_dodici>
+  <dieci_to_tredici value="dalle 10 alle 13"></dieci_to_tredici>
+  <dieci value="ore 10"></dieci>
+  <dieci_mezza value="ore 10 e 30"></dieci_mezza>
+  <undici value="ore 11"></undici>
+  <undici_mezza value="ore 11 e 30"></undici_mezza>
+  <dodici_mezza value="ore 12 e 30"></dodici_mezza>
+  <quindici value="ore 15"></quindici>
+  <quindici_mezza value="ore 15 e 30"></quindici_mezza>
+  <sedici value="ore 16"></sedici>
+  <sedici_unquarto value="ore 16 e 15"></sedici_unquarto>
+  <sedici_mezza value="ore 16 e 30"></sedici_mezza>
+  <diciasette_to_ventiquattro value="dalle 17 alle 24"></diciasette_to_ventiquattro>
+  <diciasette value="ore 17"></diciasette>
+  <diciasette_mezza value="ore 17 e 30"></diciasette_mezza>
+  <diciasette_trequarti value="ore 17 e 45"></diciasette_trequarti>
+  <diciotto value="ore 18"></diciotto>
+  <diciotto_mezza value="ore 18 e 30"></diciotto_mezza>
+  <diciotto_trequarti value="ore 18 e 45"></diciotto_trequarti>
+  <diciannove value="ore 19"></diciannove>
+  <diciannove_mezza value="ore 19 e 30"></diciannove_mezza>
+  <diciannove_trequarti value="ore 19 e 45"></diciannove_trequarti>
+  <venti value="ore 20"></venti>
+  <venti_unquarto value="ore 20 e 15"></venti_unquarto>
+  <venti_mezza value="ore 20 e 30"></venti_mezza>
+  <ventuno value="ore 21"></ventuno>
+  <ventuno_unquarto value="ore 21 e 15"></ventuno_unquarto>
+  <ventuno_mezza value="ore 21 e 30"></ventuno_mezza>
+  <ventuno_trequarti value="ore 21 e 45"></ventuno_trequarti>
+  <ventidue value="ore 22"></ventidue>
+  <ventidue_unquarto value="ore 22 e 15"></ventidue_unquarto>
+  <ventidue_mezza value="ore 22 e 30"></ventidue_mezza>
+  <ventidue_trequarti value="ore 22 e 45"></ventidue_trequarti>
+  <ventitre value="ore 23"></ventitre>
+  <ventitre_mezza value="ore 23 e 30"></ventitre_mezza>
+  <mezza_unquarto value="ore 24 e 15"></mezza_unquarto>
+  <mezza_mezza value="ore 24 e 30"></mezza_mezza>
+  <mezza_trequarti value="ore 24 e 45"></mezza_trequarti>
+  <eventi value="eventi correlati"></eventi>
+  
+<!-- GIOVEDI --> 
+
+  <diciotto_cinque value="nei pressi della Sala Consiliare della Rocca dei Rettori, Apertura della Manifestazione; seguirà Presentazione del Gioco da Tavolo: 
+  La Contesa, prodotto da Benevento Longobarda"></diciotto_cinque>
+  <diciotto_mezza_cinque value="nei pressi dei Giardini della Rocca dei Rettori, audio-racconto storico Sacra Arbor, a cura di 
+  Benevento Longobarda"></diciotto_mezza_cinque>
+  <diciannove_cinque value="Stand dell’Associazione in Piazza Castello. Inizio del Racconto Storico Itinerante Sulle Tracce Dei Longobardi a cura 
+  dell’Associazione Verehia. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></diciannove_cinque>
+  <diciannove_mezza_cinque value="nei pressi di Piazza Castello, apertura dei Banchi Didattici di Archeologia Sperimentale a cura di Benevento Longobarda. 
+  nei giardini perimetrali della Rocca dei Rettori, degustazione spettacolo Il vino nella storia, a cura degli Enogastronauti e Benevento 
+  Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. Nei pressi dei Giardini della Rocca dei Rettori, 
+  audio-racconto storico Sacra Arbor, a cura di Benevento Longobarda."></diciannove_mezza_cinque>
+  <venti_cinque value="nei pressi del Cortile della Rocca dei Rettori, presentazione con la presenza degli autori del fumetto Spatha Langobardorum; secondo 
+  episodio: Le Origini. Secondo appuntamento con la saga dei longobardi beneventani a fumetti"></venti_cinque>
+  <venti_mezza_cinque value="nei pressi dei Giardini della Rocca dei Rettori, Inizio dello spettacolo storico itinerante La ronda di guardia, a cura di OffBeat 
+  Teatro e Benevento Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi della Rocca dei Rettori,
+  partenza della visita guidata all'interno della Rocca dei Rettori, a cura di Benevento Longobarda. Evento a prenotazione obbligatoria per un massimo di 30
+  persone. Itinerario non accessibile a tutti, gratuito per i possessori di Scramacard."></venti_mezza_cinque>
+  <ventuno_cinque value="nei pressi dei Giardini della Rocca, uscita da Palazzo e Corteo Militare. Le Fare della città sfileranno verso il campo di gara per 
+  dare inizio alla Contesa"></ventuno_cinque>
+  <ventuno_unquarto_cinque value="nei pressi del Campo di Gara di Piazza Castello, Palio dei Balestrieri: Prima gara della Contesa; a cura di Benevento 
+  Longobarda"></ventuno_unquarto_cinque>
+  <ventidue_cinque value="nei pressi del Campo di Gara di Piazza Castello, spettacolo di Commedia dell’Arte Le buffonate di Landulfo, di Giuseppe Vallone, 
+  prodotto da Benevento Longobarda"></ventidue_cinque>
+  <ventidue_mezza_cinque value="nei pressi dello Stand dell’Associazione in Piazza Castello, Inizio del Racconto Storico Itinerante: Incantesimi e realtà, a 
+  cura dell’Associazione Verehia. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi dei Giardini della 
+  Rocca dei Rettori, audio-racconto storico Sacra Arbor, a cura di Benevento Longobarda"></ventidue_mezza_cinque>
+  <ventitre_cinque value="nei pressi dei Giardini della Rocca dei Rettori, inizio dello spettacolo storico itinerante La ronda di guardia, a cura di OffBeat 
+  Teatro e Benevento Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></ventitre_cinque>
+  <eventi_cinque value="All’interno della Rocca dei Rettori: Mostra sulle tecniche costruttive longobarde e Mostra sul fumetto Spatha 
+  Langobardorum, episodio uno"></eventi_cinque>
+
+<!-- VENERDI --> 
+
+  <dieci_to_dodici_sei value="nei pressi di Via Teatro Romano, Rione Triggio, apertura straordinaria dell’Antica Abbazia di San Lupolo e Zosimo detta dei 
+  Morticelli, a cura del FAI, sezione Benevento. In piazza Dogana, apertura straordinaria del chiostro di San Francesco, a cura dei frati 
+  francescani."></dieci_to_dodici_sei>
+  <dieci_to_tredici_sei value="Sulla via Francigena, nel comune di Ponte, in provincia di Benevento, visita all'abbazia di Santa Anastasia di Ponte e alla
+  mostra permanente Harimann: il guerriero ritrovato; a cura del comune di Ponte"></dieci_to_tredici_sei>
+  <dieci_sei value="nei pressi dello Stand dell’Associazione in Piazza Castello, inizio della Visita guidata scopriamo benevento; a cura dell’Associazione 
+  Verehia. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></dieci_sei>
+  <quindici_mezza_sei value="nei pressi dell'InfoPoint Arteviva in Via Carlo Torre, percorso guidato Arco del Sacramento, Cattedrale, Ipogeo. Viaggio Nella 
+  Cattedrale, a cura di ArteViva. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></quindici_mezza_sei>
+  <sedici_sei value="nei pressi del Campo di Gara di Piazza Castello, Laboratorio di Arceria. Gratuito per i possessori di ScramaCard"></sedici_sei>
+  <sedici_unquarto_sei value="nei pressi dell'InfoPoint Arteviva in Via Carlo Torre, percorso guidato Arco del Sacramento, Cattedrale, Ipogeo. Viaggio Nella 
+  Cattedrale, a cura di ArteViva. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></sedici_unquarto_sei>
+  <diciasette_to_ventiquattro_sei value="Nei pressi delle sale del cortile della Rocca dei Rettori, spazio del gusto del circuito Samex; degustrazione e 
+  presentazione delle eccellenze sannite e molisane, con Andromeda, Marina Colonna, Dolci Voglie, Fontanavecchia, Genito, Torre a Oriente, Torrefazione 
+  Monforte"></diciasette_to_ventiquattro_sei>
+  <diciasette_sei value="nei pressi dell'InfoPoint Arteviva in Via Carlo Torre, percorso guidato Arco del Sacramento, Cattedrale, Ipogeo. Viaggio Nella 
+  Cattedrale, a cura di ArteViva. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi della Rocca dei 
+  Rettori, partenza della visita guidata all'interno della Rocca dei Rettori; a cura di Benevento Longobarda. Evento a prenotazione obbligatoria per un 
+  massimo di 30 persone. Itinerario non accessibile a tutti, gratuito per i possessori di Scramacard."></diciasette_sei>
+  <diciasette_mezza_sei value="nei pressi di Piazza Castello, apertura dei Banchi Didattici di Archeologia Sperimentale, a cura di Benevento 
+  Longobarda"></diciasette_mezza_sei>
+  <diciasette_trequarti_sei value="nei pressi dell'InfoPoint Arteviva in Via Carlo Torre, percorso guidato Arco del Sacramento, Cattedrale, Ipogeo. Viaggio Nella 
+  Cattedrale, a cura di ArteViva. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></diciasette_trequarti_sei>
+  <diciotto_sei value="nei pressi dei Giardini della Rocca dei Rettori, audio-racconto storico Sacra Arbor; a cura di Benevento Longobarda"></diciotto_sei>
+  <diciotto_mezza_sei value="nei pressi della Sala Consiliare della Rocca dei Rettori, incontro con Elena Percivaldi, medievista e scrittrice, autrice di 
+  Storia segreta del Medio Evo"></diciotto_mezza_sei>
+  <diciannove_mezza_sei value="nei pressi dello Stand dell’Associazione in Piazza Castello, inizio del Racconto Storico Itinerante Sulle Tracce Dei Longobardi, 
+  a cura dell’Associazione Verehia. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi dei Giardini della 
+  Rocca dei Rettori, audio-racconto storico Sacra Arbor; a cura di Benevento Longobarda"></diciannove_mezza_sei>
+  <venti_sei value="nei pressi del Cortile della Rocca dei Rettori, Grimoaldo il Cavaliere Longobardo; Racconto popolare per grandi e piccini, di e con 
+  Angelo Miraglia"></venti_sei>
+  <venti_mezza_sei value="nei pressi dei Giardini della Rocca dei Rettori, inizio dello spettacolo storico itinerante La ronda di guardia, a cura di OffBeat 
+  Teatro e Benevento Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi della Rocca dei 
+  Rettori, partenza della visita guidata all'interno della Rocca dei Rettori."></venti_mezza_sei>
+  <ventuno_sei value="nei pressi dei Giardini della Rocca, uscita da palazzo e corteo militare; le Fare sfileranno fino al Campo di Gara dove si sfideranno 
+  gli Arcieri"></ventuno_sei>
+  <ventuno_unquarto_sei value="nei pressi del Campo di Gara di Piazza Castello, Palio degli Arcieri; Seconda gara della Contesa, a cura di Benevento 
+  Longobarda"></ventuno_unquarto_sei>
+  <ventidue_sei value="nei pressi dello Spazio del Gusto nella Corte della Rocca dei Rettori, Degustazione Spettacolo Il vino nella storia, a cura degli 
+  Enogastronauti e Benevento Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi Stand 
+  dell’Associazione in Piazza Castello, Inizio del Racconto Storico Itinerante Incantesimi e realtà, a cura dell’Associazione Verehia. Evento a prenotazione 
+  obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></ventidue_sei>
+  <ventidue_mezza_sei value="nei pressi dei Giardini della Rocca dei Rettori, Inizio dello spettacolo storico itinerante La ronda di guardia, a cura di 
+  OffBeat Teatro e Benevento Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi dei 
+  Giardini della Rocca dei Rettori, audio-racconto storico Sacra Arbor; a cura di Benevento Longobarda"></ventidue_mezza_sei>
+  <ventitre_sei value="nei pressi dell'Accampamento militare di Piazza Castello, il cieco e lo storpio e altre giullarate, a cura di Benevento 
+  Longobarda"></ventitre_sei>
+  <ventitre_mezza_sei value="nei pressi di Piazza Castello, concerto di musica medievale e celtica con gli Emian Paganfolk. nei pressi dei Giardini della Rocca 
+  dei Rettori, audio-racconto storico Sacra Arbor; a cura di Benevento Longobarda"></ventitre_mezza_sei>
+  <eventi_sei value="All’interno della Rocca dei Rettori: Mostra sulle tecniche costruttive longobarde e Mostra sul fumetto Spatha 
+  Langobardorum"></eventi_sei>
+
+<!-- SABATO --> 
+
+  <dieci_to_dodici_sette value="nei pressi di Via Teatro Romano, Rione Triggio, apertura straordinaria dell’Antica Abbazia di San Lupolo e Zosimo detta dei 
+  Morticelli, a cura del FAI, sezione Benevento. In piazza Dogana, apertura straordinaria del chiostro di San Francesco, a cura dei frati 
+  francescani."></dieci_to_dodici_sette>
+  <dieci_to_tredici_sette value="Sulla via Francigena, nel comune di Ponte, in provincia di Benevento, visita all'abbazia di Santa Anastasia di Ponte e alla
+  mostra permanente Harimann: il guerriero ritrovato; a cura del comune di Ponte"></dieci_to_tredici_sette>
+  <dieci_sette value="nei pressi dello Stand dell’Associazione in Piazza Castello, inizio della visita guidata scopriamo benevento; a cura dell’Associazione 
+  Verehia. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></dieci_sette>
+  <diciasette_to_ventiquattro_sette value="Nei pressi delle sale del cortile della Rocca dei Rettori, spazio del gusto del circuito Samex; degustrazione e 
+  presentazione delle eccellenze sannite e molisane, con Andromeda, Marina Colonna, Dolci Voglie, Fontanavecchia, Genito, Torre a Oriente, Torrefazione 
+  Monforte"></diciasette_to_ventiquattro_sette>
+  <diciasette_sette value="nei pressi dello Stand Associazione Piazza Castello, inizio del percorso museale alla scoperta del Canto Beneventano denominato 
+  Vera Sapienza, a cura di ArteViva. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi di Piazza Castello, 
+  apertura dei Banchi Didattici di Archeologia Sperimentale, a cura di Benevento Longobarda, Tempora Medievalis, Gens Langobardorum, Fortebraccio Veregrense, 
+  La Fara. nei pressi della Corte della Rocca dei Rettori, apertura della Corte dei Musici, a cura di Odor Rosae Musicies. nei pressi della Rocca dei Rettori,
+  partenza della visita guidata all'interno della Rocca dei Rettori."></diciasette_sette>
+  <diciasette_mezza_sette value="nei pressi dei Giardini della Rocca dei Rettori, La spada nella roccia, spettacolo teatrale per bambini, a cura della 
+  Compagnia delle Spille"></diciasette_mezza_sette>
+  <diciotto_sette value="nei pressi dei Giardini della Rocca dei Rettori, audio-racconto storico Sacra arbor, a cura di Benevento
+  Longobarda. nei pressi dello Stand dell’Associazione in Piazza Castello, Inizio del Racconto Storico Itinerante Sulle tracce dei longobardi, a cura 
+  dell’Associazione Verehia e Benevento Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></diciotto_sette>
+  <diciotto_mezza_sette value="nei pressi del Cortile della Rocca dei Rettori, Grimoaldo il Cavaliere Longobardo; Racconto popolare per grandi e piccini, di e 
+  con Angelo Miraglia"></diciotto_mezza_sette>
+  <diciannove_sette value="nei pressi dei Giardini della Rocca dei Rettori, Uscita da palazzo e inizio del Corteo Storico delle Reliquie. Il Corteo sfilerà 
+  fino a Santa Sofia e tornerà in Piazza Castello. In Santa Sofia ci sarà lo scambio di armi tra le formazioni militari longobarde presenti"></diciannove_sette>
+  <venti_sette value="nei pressi di Piazza Castello, la spada nella roccia, spettacolo teatrale per bambini, a cura della compagnia delle Spille. 
+  nei pressi dei Giardini della Rocca dei Rettori, inizio dello spettacolo storico itinerante La ronda di guardia, a cura di OffBeat 
+  Teatro e Benevento Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi dello Spazio del Gusto 
+  nella Corte della Rocca dei Rettori, Degustazione Spettacolo Il vino nella storia, a cura degli Enogastronauti e Benevento Longobarda. Evento a prenotazione 
+  obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></venti_sette>
+  <venti_mezza_sette value="nei pressi dei Giardini della Rocca dei Rettori, Con le ali ai piedi, spettacolo di acrobatica aerea, a cura di INCA 
+  Italia. nei pressi dei Giardini della Rocca dei Rettori, audio-racconto storico Sacra arbor, a cura di Benevento Longobarda. nei pressi della Rocca dei 
+  Rettori, partenza della guida all'interno della Rocca dei Rettori."></venti_mezza_sette>
+  <ventuno_sette value="nei pressi dei Giardini della Rocca, partenza del corteo militare; il corteo sfilerà fino al Campo di Gara dove si svolgerà il 
+  Palio"></ventuno_sette>
+  <ventuno_unquarto_sette value="nei pressi del Campo di Gara di Piazza Castello, Palio degli Armigeri; Terza gara della Contesa, a cura di Fortebraccio 
+  Veregrense e Benevento Longobarda"></ventuno_unquarto_sette>
+  <ventidue_sette value="nei pressi dell'Accampamento militare di Piazza Castello, Giullarate in bilico; spettacolo di giocoleria ed equilibrismo, a cura di 
+  INCA Italia. nei pressi dello Stand dell’Associazione in Piazza Castello, Inizio del Racconto Storico Itinerante Incantesimi e realtà, a cura 
+  dell’Associazione Verehia. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></ventidue_sette>
+  <ventidue_unquarto_sette value="nei pressi del Cortile della Rocca dei Rettori, Grimoaldo il Cavaliere Longobardo; Racconto popolare per grandi e piccini, di
+  e con Angelo Miraglia "></ventidue_unquarto_sette>
+  <ventidue_mezza_sette value="nei pressi dei Giardini della Rocca dei Rettori, Inizio dello spettacolo storico itinerante La ronda di guardia, a cura di 
+  OffBeat Teatro e Benevento Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi della Rocca 
+  dei Rettori, partenza della guida all'interno della Rocca dei Rettori."></ventidue_mezza_sette>
+  <ventidue_trequarti_sette value="nei pressi dei Giardini della Rocca dei Rettori, Con le ali ai piedi, spettacolo di acrobatica aerea, a cura di INCA 
+  Italia. Nei pressi dell'accampamento militare di Piazza Castello, il cieco e lo storpio e altre giullarate, a cura di benevento 
+  longobarda"></ventidue_trequarti_sette>
+  <ventitre_sette value="nei pressi dell'Accampamento militare di Piazza Castello, spettacolo storico Corteo del condannato, a cura di Benevento 
+  Longobarda. nei pressi dei Giardini della Rocca dei Rettori, audio-racconto storico Sacra arbor, a cura di Benevento Longobarda. nei pressi del Palco di 
+  Piazza Castello, Emian Paganfolk, concerto di musica medievale e celtica"></ventitre_sette>
+  <ventitre_mezza_sette value="nei pressi dell'Accampamento militare di Piazza Castello, Giullarate In bilico; spettacolo di giocoleria ed equilibrismo, a 
+  cura di INCA Italia"></ventitre_mezza_sette>
+  <mezza_unquarto_sette value="nei pressi dell'accampamento militare di piazza castello, spettacolo storico corteo del condannato, a cura di benevento
+  longobarda"></mezza_unquarto_sette>
+  <mezza_trequarti_sette value="nei pressi dell'Accampamento militare di Piazza Castello, Sistema solare; spettacolo di giocoleria con fuoco, a cura di INCA 
+  Italia"></mezza_trequarti_sette>
+  <eventi_sette value="All’interno della Rocca dei Rettori: Mostra sulle tecniche costruttive longobarde e Mostra sul fumetto Spatha 
+  Langobardorum"></eventi_sette>
+
+<!-- DOMENICA --> 
+
+  <dieci_to_dodici_otto value="nei pressi di Via Teatro Romano, Rione Triggio, apertura straordinaria dell’Antica Abbazia di San Lupolo e Zosimo detta dei 
+  Morticelli, a cura del FAI, sezione Benevento. In piazza Dogana, apertura straordinaria del chiostro di San Francesco, a cura dei frati 
+  francescani."></dieci_to_dodici_otto>
+  <dieci_to_tredici_otto value="Sulla via Francigena, nel comune di Ponte, in provincia di Benevento, visita all'abbazia di Santa Anastasia di Ponte e alla
+  mostra permanente Harimann: il guerriero ritrovato; a cura del comune di Ponte"></dieci_to_tredici_otto>
+  <dieci_otto value="nei pressi dello Stand dell’Associazione in Piazza Castello, inizio della Visita Guidata scopriamo benevento; a cura dell’Associazione 
+  Verehia. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></dieci_otto>
+  <dieci_mezza_otto value="nei pressi dello Stand Associazione Piazza Castello, Vera sapienza; Percorso guidato alla scoperta del Canto Beneventano, a cura di 
+  ArteViva. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></dieci_mezza_otto>
+  <undici_otto value="nei pressi di Piazza Castello, Apertura dei Banchi Didattici di Archeologia Sperimentale, a cura di Benevento Longobarda, Tempora 
+  Medievalis, Gens Langobardorum, Fortebraccio Veregrense, La Fara. nei pressi della Corte della Rocca dei Rettori, Apertura della Corte dei Musici, a cura di 
+  Odor Rosae Musicies"></undici_otto>
+  <undici_mezza_otto value="nei pressi dei Giardini della Rocca dei Rettori, Palio dei Servanti. Quarta gara della Contesa, a cura di Rugby IV Circolo 
+  Benevento e Benevento Longobarda"></undici_mezza_otto>
+  <dodici_mezza_otto value="nei pressi dei Giardini della Rocca dei Rettori, La spada nella roccia; spettacolo teatrale per bambini, a cura della Compagnia 
+  delle Spille. nei pressi della rooca dei rettori, partenza della visita guidata all'interno della rocca dei rettori, a cura di benevento longobarda; Evento 
+  a prenotazione obbligatoria per un massimo di 30 persone. Itinerario non accessibile a tutti, gratuito per i possessori di Scramacard."></dodici_mezza_otto>
+  <quindici_otto value="nei pressi dell'InfoPoint Arteviva in Via Carlo Torre, Viaggio nella cattedrale; percorso guidato Arco del Sacramento, Cattedrale, 
+  Ipogeo, a cura di ArteViva. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></quindici_otto>
+  <sedici_otto value="nei pressi dell'InfoPoint Arteviva in Via Carlo Torre, Viaggio nella cattedrale; percorso guidato Arco del Sacramento, Cattedrale, 
+  Ipogeo, a cura di ArteViva. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi dei Giardini della Rocca 
+  dei Rettori, Audio-racconto storico Sacra arbor, con repliche ogni 40 minuti, a cura di Benevento Longobarda. nei pressi del Cortile della Rocca dei 
+  Rettori, Grimoaldo il Cavaliere Longobardo; Racconto popolare per grandi e piccini, di e con Angelo Miraglia"></sedici_otto>
+  <sedici_mezza_otto value="nei pressi dei Giardini della Rocca dei Rettori, La spada nella roccia; spettacolo teatrale per bambini, a cura della Compagnia 
+  delle Spille"></sedici_mezza_otto>
+  <diciasette_to_ventiquattro_otto value="Nei pressi delle sale del cortile della Rocca dei Rettori, spazio del gusto del circuito Samex; degustrazione e 
+  presentazione delle eccellenze sannite e molisane, con Andromeda, Marina Colonna, Dolci Voglie, Fontanavecchia, Genito, Torre a Oriente, Torrefazione 
+  Monforte"></diciasette_to_ventiquattro_otto>
+  <diciasette_otto value="nei pressi dell'InfoPoint Arteviva in Via Carlo Torre, Viaggio nella cattedrale; percorso guidato Arco del Sacramento, Cattedrale, 
+  Ipogeo, a cura di ArteViva. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi dello Stand 
+  dell’Associazione in Piazza Castello, Inizio del Racconto Storico Itinerante Sulle tracce dei longobardi, a cura dell’Associazione Verehia. Evento a 
+  prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi di Piazza Castello, apertura dei Banchi Didattici di 
+  Archeologia Sperimentale, a cura di Benevento Longobarda, Tempora Medievalis, Gens Langobardorum, Fortebraccio Veregrense, La Fara. nei pressi della Corte 
+  della Rocca dei Rettori, Apertura della Corte dei Musici, a cura di Odor Rosae Musicies"></diciasette_otto>
+  <diciasette_mezza_otto value="nei pressi dei Giardini della Rocca dei Rettori, Con le ali ai piedi; spettacolo di acrobatica aerea, a cura di INCA 
+  Italia"></diciasette_mezza_otto>
+  <diciasette_trequarti_otto value="nei pressi dell'InfoPoint Arteviva in Via Carlo Torre, Viaggio nella cattedrale; percorso guidato Arco del Sacramento, Cattedrale, 
+  Ipogeo, a cura di ArteViva. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></diciasette_trequarti_otto>
+  <diciotto_otto value="nei pressi dei Giardini della Rocca dei Rettori, Uscita da palazzo e inizio del Corteo Storico delle Reliquie. Il Corteo sfilerà fino 
+  a Santa Sofia, dove verranno presentati i Cavalieri contendenti"></diciotto_otto>
+  <diciotto_trequarti_otto value="nei pressi del Corso Garibaldi, Palio dei Cavalieri. Quinta gara della Contesa, a cura de I Cavalieri di Bianca Lancia e 
+  Benevento Longobarda"></diciotto_trequarti_otto>
+  <diciannove_mezza_otto value="nei pressi dei Giardini della Rocca dei Rettori, Inizio dello spettacolo storico itinerante La ronda di guardia, A cura di 
+  OffBeat Teatro e Benevento Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></diciannove_mezza_otto>
+  <diciannove_trequarti_otto value="nei pressi dei Giardini della Rocca dei Rettori, con le ali ai piedi; spettacolo di acrobatica aerea, a cura di INCA 
+  Italia"></diciannove_trequarti_otto>
+  <venti_otto value="nei pressi dell'Accampamento militare di Piazza Castello, Giullarate in bilico; spettacolo di giocoleria ed equilibrismo, a cura di INCA
+  Italia"></venti_otto>
+  <venti_unquarto_otto value="nei pressi del Cortile della Rocca dei Rettori, Grimoaldo il Cavaliere Longobardo; Racconto popolare per grandi e piccini, di e 
+  con Angelo Miraglia"></venti_unquarto_otto>
+  <venti_mezza_otto value="nei pressi del Campo di Gara di Piazza Castello, spettacolo di Commedia dell’Arte Le buffonate di landulfo, di Giuseppe Vallone, 
+  prodotto da Benevento Longobarda. nei pressi della rocca dei rettori, partenza della visita guidata all'interno della rocca dei rettori, a cura di 
+  benevento longobarda; Evento a prenotazione obbligatoria per un massimo di 30 persone. Itinerario non accessibile a tutti, gratuito per i possessori di 
+  Scramacard."></venti_mezza_otto>
+  <ventuno_otto value="nei pressi dello Spazio del Gusto nella Corte della Rocca dei Rettori, Degustazione Spettacolo Il vino nella storia, a cura degli 
+  Enogastronauti e Benevento Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></ventuno_otto>
+  <ventuno_mezza_otto value="nei pressi dei Giardini della Rocca dei Rettori, con le ali ai piedi; spettacolo di acrobatica aerea, a cura di INCA 
+  Italia"></ventuno_mezza_otto>
+  <ventuno_trequarti_otto value="nei pressi dei Giardini della Rocca, uscita da palazzo e partenza del corteo militare. Il Corteo sfilerà fino al Campo di 
+  Gara dove avrà luogo la sfida decisiva per l’assegnazione delle Reliquie"></ventuno_trequarti_otto>
+  <ventidue_otto value="nei pressi del Campo di Gara di Piazza Castello, Palio degli Arimanni. Ultima gara della Contesa, a cura di Fortebraccio Veregrense e 
+  Benevento Longobarda. Seguiranno danze medievali e festeggiamenti della Fara vincitrice a cura di Odor rosae musices"></ventidue_otto>
+  <ventidue_mezza_otto value="nei pressi dello Spazio del Gusto nella Corte della Rocca dei Rettori, Degustazione Spettacolo Il vino nella storia, a cura 
+  degli Enogastronauti e Benevento Longobarda. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard. nei pressi della 
+  rocca dei rettori, partenza della visita guidata all'interno della rocca dei rettori, a cura di benevento longobarda; Evento a prenotazione obbligatoria 
+  per un massimo di 30 persone. Itinerario non accessibile a tutti, gratuito per i possessori di Scramacard."></ventidue_mezza_otto>
+  <ventitre_otto value="nei pressi dell'Accampamento militare di Piazza Castello, Giullarate in bilico; spettacolo di giocoleria ed equilibrismo, a cura di 
+  INCA Italia. nei pressi dello Stand dell’Associazione in Piazza Castello, Inizio del Racconto Storico Itinerante Incantesimi e realtà, a cura 
+  dell’Associazione Verehia. Evento a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></ventitre_otto>
+  <ventitre_mezza_otto value="nei pressi dell'Accampamento militare di Piazza Castello, Sistema solare; spettacolo di giocoleria con fuoco a cura di INCA 
+  Italia. nei pressi dei Giardini della Rocca dei Rettori, Inizio dello spettacolo storico itinerante la ronda di guardia, a cura di OffBeat Teatro. Evento 
+  a prenotazione obbligatoria. Posti riservati e riduzioni per possessori Scramacard"></ventitre_mezza_otto>
+  
+</properties>
